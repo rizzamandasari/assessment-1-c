@@ -5,7 +5,7 @@
       "setup": "javac Soal01.java",
       "run": "java Soal01",
       "input": "1234\n3213\n7891",
-      "output": "0981\n8900\n6548",
+      "output": "7564\n6546\n4120",
       "comparison": "included",
       "timeout": 10,
       "points": 10
@@ -15,7 +15,7 @@
       "setup": "javac Soal01.java",
       "run": "java Soal01",
       "input": "5128\n7389\n2001",
-      "output": "9825\n5046\n7798",
+      "output": "1458\n2610\n4335",
       "comparison": "included",
       "timeout": 10,
       "points": 10
@@ -44,8 +44,8 @@
       "name": "Soal02",
       "setup": "javac Soal02.java",
       "run": "java Soal02",
-      "input": "568 231",
-      "output": "tiga ratus tiga puluh tujuh",
+      "input": "286 349",
+      "output": "enam ratus tiga puluh lima",
       "comparison": "included",
       "timeout": 10,
       "points": 30
